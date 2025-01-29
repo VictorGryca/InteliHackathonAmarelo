@@ -3,8 +3,8 @@
 ---
 
 ## **👥 Integrantes do Grupo**
-- 🧑‍💻 [Gabriel](#)
-- 👩‍💻 [Giovanna Neves](#)
+- 🧑‍💻 [Gabriel]()
+- 👩‍💻 [Giovanna Neves]()
 - 👨‍🔬 [Luigi Carone Faria](#)
 - 👩‍🔬 [Maria Clara](#)
 - 👨‍🎨 [Victor Raymundo Grycajuk](https://github.com/VictorGryca)
