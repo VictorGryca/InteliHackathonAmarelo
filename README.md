@@ -10,7 +10,7 @@
 - 👨‍🎨 [Victor Raymundo Grycajuk](https://github.com/VictorGryca)
 - 👩‍🎨 [Vitor Ribeiro](#)
 - 🧑‍🎓 [Yan Kruziski](#)
-- 👩‍🎓 [Yuri Boczar](#)
+- 👩‍🎓 [Yuri Boczar](https://github.com/B0czar)
 
 ---
 
