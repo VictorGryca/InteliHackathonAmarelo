@@ -90,6 +90,17 @@
 
 ---
 
+### **💡Prompt usado para treinamento:**
+
+<p align="center">
+  <a href="https://docs.google.com/document/d/1PwWKoWYRuXdNXM7b5uleHq20ylWEmDK1YyGBzVGVMhI/edit?usp=sharing
+" target="_blank" style="background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px;">CONFIRA o Prompt</a>
+</p>
+
+---
+
+
+
 ## **👥 Integrantes do Grupo**
 - 🧑‍💻 [Gabriel Reis]()
 - 👩‍💻 [Giovanna Neves]()
