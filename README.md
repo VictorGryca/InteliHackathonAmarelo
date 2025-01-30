@@ -6,7 +6,7 @@
 <h3 align="center">Um agente especializado em criar e aperfeiçoar feedbacks no âmbito corporativo!</h3>
 
 
-![image](https://github.com/user-attachments/assets/9efc82dd-e2e1-4e6c-a8c2-2e06e0156ad1)
+https://chatgpt.com/g/g-67992c866d148191bb8d887b73a4a4f9-menzinho-coach-relacional-hackathon-inteli
 
 
 ---
