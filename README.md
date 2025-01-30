@@ -14,18 +14,6 @@
 
 ---
 
-## **👥 Integrantes do Grupo**
-- 🧑‍💻 [Gabriel Reis]()
-- 👩‍💻 [Giovanna Neves]()
-- 👨‍🔬 [Luigi Carone Faria](#)
-- 👩‍🔬 [Maria Clara Santos](#)
-- 👨‍🎨 [Victor Raymundo Grycajuk](https://github.com/VictorGryca)
-- 👩‍🎨 [Vitor Ribeiro](#)
-- 🧑‍🎓 [Yan Kruziski](#)
-- 👩‍🎓 [Yuri Boczar](https://github.com/B0czar)
-
----
-
 ## **📄 Descrição do Projeto**
 > O **Menzinho** é um agente de IA especializado em reformular feedbacks, ajudando líderes e colaboradores a melhorar a qualidade da comunicação interpessoal. Ele transforma feedbacks em mensagens **claras, objetivas e eficazes**, ajustando o tom conforme solicitado e promovendo um impacto positivo.
 
@@ -93,6 +81,18 @@
 - 🤝 **Respeito mútuo**
 - 💡 **Inovação contínua**
 - 🔍 **Transparência**
+
+---
+
+## **👥 Integrantes do Grupo**
+- 🧑‍💻 [Gabriel Reis]()
+- 👩‍💻 [Giovanna Neves]()
+- 👨‍🔬 [Luigi Carone Faria](#)
+- 👩‍🔬 [Maria Clara Santos](#)
+- 👨‍🎨 [Victor Raymundo Grycajuk](https://github.com/VictorGryca)
+- 👩‍🎨 [Vitor Ribeiro](#)
+- 🧑‍🎓 [Yan Kruziski](#)
+- 👩‍🎓 [Yuri Boczar](https://github.com/B0czar)
 
 
 ---
