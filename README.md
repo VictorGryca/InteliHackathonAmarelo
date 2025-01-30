@@ -6,7 +6,7 @@
 - 🧑‍💻 [Gabriel Reis]()
 - 👩‍💻 [Giovanna Neves]()
 - 👨‍🔬 [Luigi Carone Faria](#)
-- 👩‍🔬 [Maria Clara](#)
+- 👩‍🔬 [Maria Clara Santos](#)
 - 👨‍🎨 [Victor Raymundo Grycajuk](https://github.com/VictorGryca)
 - 👩‍🎨 [Vitor Ribeiro](#)
 - 🧑‍🎓 [Yan Kruziski](#)
