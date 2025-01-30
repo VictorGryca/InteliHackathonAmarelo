@@ -3,7 +3,7 @@
 ---
 
 ## **👥 Integrantes do Grupo**
-- 🧑‍💻 [Gabriel]()
+- 🧑‍💻 [Gabriel Reis]()
 - 👩‍💻 [Giovanna Neves]()
 - 👨‍🔬 [Luigi Carone Faria](#)
 - 👩‍🔬 [Maria Clara](#)
