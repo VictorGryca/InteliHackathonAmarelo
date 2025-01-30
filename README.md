@@ -14,7 +14,7 @@
 
 ---
 
-## **📄 Descrição do Projeto**
+
 > O **Menzinho** é um agente de IA especializado em reformular feedbacks, ajudando líderes e colaboradores a melhorar a qualidade da comunicação interpessoal. Ele transforma feedbacks em mensagens **claras, objetivas e eficazes**, ajustando o tom conforme solicitado e promovendo um impacto positivo.
 
 > Com base nas informações fornecidas pelo usuário, o **Menzinho** personaliza sugestões e oferece exemplos práticos, equilibrando **reconhecimento positivo** com **críticas construtivas**, sempre respeitando valores e princípios éticos.
