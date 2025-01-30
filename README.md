@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://chatgpt.com/g/g-67992c866d148191bb8d887b73a4a4f9-menzinho-coach-relacional-hackathon-inteli" target="_blank" style="background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px;">💬 CLIQUE AQUI para Testar O Menzinho</a>
+  <a href="https://chatgpt.com/g/g-67992c866d148191bb8d887b73a4a4f9-menzinho-coach-relacional-hackathon-inteli" target="_blank" style="background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px;">💬 CLIQUE AQUI para testar O Menzinho</a>
 </p>
 
 
