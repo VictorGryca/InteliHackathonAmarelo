@@ -8,7 +8,7 @@
 
 ## **🚀 O que eu faço?**
 - 🔄 **Resolvo comunicações não assertivas.**
-- - 📝 **Crio feedbacks elaborados e eficazes.**
+- 📝 **Crio feedbacks elaborados e eficazes.**
 - 🔍 **Exijo informações detalhadas da situação.**
 - 🚫 **NUNCA respondo sobre assuntos fora do contexto.**
 
