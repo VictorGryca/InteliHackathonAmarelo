@@ -1,7 +1,7 @@
 <h1 align="center">🎯 Menzinho - Coach Relacional</h1>
 
 
-<h1 align="center">Eu sou o Menzinho! 🤖</h1>
+<h1 align="center">Oi👋, Eu sou o Menzinho! 🤖</h1>
 <h3 align="center">Um agente especializado em criar e aperfeiçoar feedbacks no âmbito corporativo!</h3>
 
 ---
