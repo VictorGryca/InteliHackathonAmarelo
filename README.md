@@ -114,4 +114,4 @@
 
 ---
 
-🚀 **Explore o Menzinho e transforme sua comunicação!**
+<h2 align="center">🚀 **Explore o Menzinho e transforme sua comunicação!**
