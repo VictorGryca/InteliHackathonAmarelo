@@ -65,13 +65,6 @@
 
 ---
 
-## **📚 Bases de Conhecimento**
-
-### **📘 Referências Utilizadas:**
-- 📗 _[Estratégias para feedbacks eficazes]_  
-- 📙 _[Práticas de liderança inspiradoras]_  
-- 📕 _[Modelos de comunicação clara e objetiva]_  
-
 ### **📖 Diretrizes e Princípios:**  
 - Ética, sustentabilidade, respeito mútuo, inovação contínua e transparência.  
 
