@@ -1,8 +1,15 @@
 # **🎯 Menzinho - Coach Relacional**
 
-
 <h1 align="center">Eu sou o Menzinho!</h1>
 <h3 align="center">Um agente especializado em criar e aperfeiçoar feedbacks no âmbito corporativo!</h3>
+
+- 🔭 Exijo informações **detalhadas da situação.**
+
+- Resolvo comunicações **não acertivas**
+
+- NUNCA respondo sobre **assuntos fora do contexto.**
+
+- Crio feedbacks **elaboradoss.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,6 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+
 
 ---
 
